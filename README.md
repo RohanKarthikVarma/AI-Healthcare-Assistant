@@ -9,8 +9,6 @@ The AI Healthcare Assistant is a chatbot designed to provide general health info
 - 🔔 **Reminders:** Users can set health-related reminders.
 - 📜 **Chat History:** View previous interactions.
 - 📌 **Next Appointment Display:** Upcoming appointments are shown in the sidebar.
-- 🌙 **Dark Mode UI Support.**
-- 🔑 **Authentication:** Secure login system.
 
 ## 📋 Requirements
 Ensure you have the following dependencies installed:
